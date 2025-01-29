@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d419a0d3-0312-4de4-8ec4-63b42d4bdb98" name="Default Changelist" comment="docker commit2">
-      <change beforePath="$PROJECT_DIR$/expensetrack.iml" beforeDir="false" />
+    <list default="true" id="d419a0d3-0312-4de4-8ec4-63b42d4bdb98" name="Default Changelist" comment="  hikari commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +76,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ExpensetrackApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738167743713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" main commit">
+      <created>1738168762682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738168762682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="  hikari commit">
+      <created>1738170131456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738170131456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +206,9 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="docker commit" />
     <MESSAGE value="docker commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker commit2" />
+    <MESSAGE value=" main commit" />
+    <MESSAGE value="  hikari commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="  hikari commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
