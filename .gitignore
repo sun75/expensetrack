@@ -1,0 +1,12 @@
+# Java / Maven / Gradle 忽略文件
+target/
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*.DS_Store
+/.idea/
+/.vscode/
+/node_modules/
+/.env
