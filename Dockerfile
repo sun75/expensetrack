@@ -1,5 +1,5 @@
 # 使用适配 JDK 1.8 的基础镜像
-
+#
 FROM openjdk:8-jdk-alpine AS build
 
 # 设置工作目录
