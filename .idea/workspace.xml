@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d419a0d3-0312-4de4-8ec4-63b42d4bdb98" name="Default Changelist" comment="  hibernate commit" />
+    <list default="true" id="d419a0d3-0312-4de4-8ec4-63b42d4bdb98" name="Default Changelist" comment="gitigore 忽略了target文件">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expensetrack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/expensetrack.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,17 +78,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ExpensetrackApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="expensetrack" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -188,7 +182,77 @@
       <option name="project" value="LOCAL" />
       <updated>1738170676818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="  zaxxer commit">
+      <created>1738171418206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738171418206</updated>
+    </task>
+    <task id="LOCAL-00008" summary="mysql.cj.jdbc.Driver commit">
+      <created>1738172869820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738172869820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add remote database configuration">
+      <created>1738182268590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738182268590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add configuration of railway deploy">
+      <created>1738194528000</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738194528000</updated>
+    </task>
+    <task id="LOCAL-00011" summary="关闭 Hibernate 自动更新">
+      <created>1738198452764</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738198452764</updated>
+    </task>
+    <task id="LOCAL-00012" summary="禁用 spring-boot-devtools，增大内存">
+      <created>1738198574876</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738198574876</updated>
+    </task>
+    <task id="LOCAL-00013" summary="取消内存增大的行为">
+      <created>1738200302254</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738200302254</updated>
+    </task>
+    <task id="LOCAL-00014" summary="尝试解决deploy成功之后的crush行为">
+      <created>1738202900844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738202900844</updated>
+    </task>
+    <task id="LOCAL-00015" summary="尝试解决deploy成功之后的crush行为">
+      <created>1738202958637</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738202958637</updated>
+    </task>
+    <task id="LOCAL-00016" summary="gitigore 忽略了target文件">
+      <created>1738203905294</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738203905294</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +277,16 @@
     <MESSAGE value=" main commit" />
     <MESSAGE value="  hikari commit" />
     <MESSAGE value="  hibernate commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="  hibernate commit" />
+    <MESSAGE value="  zaxxer commit" />
+    <MESSAGE value="mysql.cj.jdbc.Driver commit" />
+    <MESSAGE value="add remote database configuration" />
+    <MESSAGE value="add configuration of railway deploy" />
+    <MESSAGE value="关闭 Hibernate 自动更新" />
+    <MESSAGE value="禁用 spring-boot-devtools，增大内存" />
+    <MESSAGE value="取消内存增大的行为" />
+    <MESSAGE value="尝试解决deploy成功之后的crush行为" />
+    <MESSAGE value="gitigore 忽略了target文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitigore 忽略了target文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
