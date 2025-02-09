@@ -18,7 +18,8 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
 //                        .allowedOrigins("http://localhost:3000") // 允许前端的地址
-                        .allowedOrigins("https://myexpensefrontend-14r8cpmzv-huihuis-projects-0db6645c.vercel.app/") // 允许前端的地址
+//                        .allowedOrigins("https://myexpensefrontend-14r8cpmzv-huihuis-projects-0db6645c.vercel.app/") // 允许前端的地址
+                        .allowedOrigins("https://myexpensefrontend.vercel.app/") // 允许前端的地址
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
